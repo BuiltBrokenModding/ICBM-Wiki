@@ -1,0 +1,30 @@
+{
+    "pageName":"Standard Missile",
+    "replaceKeys":
+    {
+        "standardMissile":"standard missile"
+    },
+    "content":
+    {
+        "p1": "The standard missile is the base #missile size in ICBM. It can carry a #payload of 20 #explosives in its #warhead."
+        "h2": {"name":"Crafting"},
+        "p2":"Crafting is very unique for the standard missile to help balance it's explosive power. In order to make on of these missiles you need a #launcher that support crafting or a #workstation for the missile size."
+        "h2": {"name":"Launcher Crafting Process", "size":"small"},
+        "p3":"In order to craft the missile you will need 128 #iron #rods, 36 #iron #plates, a #guidanceSystem, a #rocketEngine, a #warhead, and a supported #wrench.
+        "list"
+        {
+            "type":"numbered",
+            "entry1":"First build a #standardLauncher frame with nothing loaded",
+            "entry2":"Once built start by insert the rods to create the frame. This can be done by right click the CPU or frame once started.",
+            "entry2":"When the frame is completed insert the #rocketEngine, #guidanceSystem, and #warhead. It should visually render each as it is inserted to note the step is completed. #Warhead can optionally be ignored but can not be inserted after the next step.",
+            "entry3":"After inserting the guts of the #missile place the #plates onto the frame as the #missile skin.",
+            "entry4":"With everything added shift right-click the #missile or #launcherCPU to complete the #missile."
+        }
+        "h4": {"name":"Notes"},
+        "list":
+        {
+            "type":"dot",
+            "li": "Direct replacement for the 1.6.4 #minecraft #missiles sizes." 
+        }
+    }
+}

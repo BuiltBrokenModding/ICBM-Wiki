@@ -1,0 +1,38 @@
+{
+    "pageName":"Missiles",
+    "replaceKeys":
+    {
+        "missile":"missile"
+    },
+    "content":
+    {
+        "p1": "Missiles are the primary focus of ICBM and are broken down into 5 sizes."
+        "h1":
+        {  
+            "link":"micro.json",
+            "text":"Micro"
+        }.
+        "h2":
+        {  
+            "link":"small.json",
+            "text":"Small"
+        },
+        "h3":
+        {  
+            "link":"standard.json",
+            "text":"Standard"
+        },
+        "h4":
+        {  
+            "link":"medium.json",
+            "text":"Medium"
+        },
+        "h5":
+        {  
+            "link":"large.json",
+            "text":"Large"
+        }
+    
+    }
+
+}
