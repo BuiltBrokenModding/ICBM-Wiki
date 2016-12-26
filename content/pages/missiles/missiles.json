@@ -6,12 +6,12 @@
     },
     "content":
     {
-        "p1": "Missiles are the primary focus of ICBM and are broken down into 5 sizes."
+        "p1": "Missiles are the primary focus of ICBM and are broken down into 5 sizes.",
         "h1":
         {  
             "link":"micro.json",
             "text":"Micro"
-        }.
+        },
         "h2":
         {  
             "link":"small.json",
