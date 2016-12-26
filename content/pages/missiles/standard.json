@@ -6,11 +6,11 @@
     },
     "content":
     {
-        "p1": "The standard missile is the base #missile size in ICBM. It can carry a #payload of 20 #explosives in its #warhead."
+        "p1": "The standard missile is the base #missile size in ICBM. It can carry a #payload of 20 #explosives in its #warhead.",
         "h2": {"name":"Crafting"},
-        "p2":"Crafting is very unique for the standard missile to help balance it's explosive power. In order to make on of these missiles you need a #launcher that support crafting or a #workstation for the missile size."
+        "p2":"Crafting is very unique for the standard missile to help balance it's explosive power. In order to make on of these missiles you need a #launcher that support crafting or a #workstation for the missile size.",
         "h2": {"name":"Launcher Crafting Process", "size":"small"},
-        "p3":"In order to craft the missile you will need 128 #iron #rods, 36 #iron #plates, a #guidanceSystem, a #rocketEngine, a #warhead, and a supported #wrench."
+        "p3":"In order to craft the missile you will need 128 #iron #rods, 36 #iron #plates, a #guidanceSystem, a #rocketEngine, a #warhead, and a supported #wrench.",
         "list"
         {
             "type":"numbered",
