@@ -19,7 +19,7 @@
             "entry2":"When the frame is completed insert the #rocketEngine, #guidanceSystem, and #warhead. It should visually render each as it is inserted to note the step is completed. #Warhead can optionally be ignored but can not be inserted after the next step.",
             "entry3":"After inserting the guts of the #missile place the #plates onto the frame as the #missile skin.",
             "entry4":"With everything added shift right-click the #missile or #launcherCPU to complete the #missile."
-        }
+        },
         "h4": {"name":"Notes"},
         "list":
         {
