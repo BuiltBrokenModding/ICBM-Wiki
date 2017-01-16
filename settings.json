@@ -3,9 +3,10 @@
     {
         "outputPath":"icbm",
         "title":"ICBM Wiki",
-        "sub_title":"Minecraft Missile Mod"    
-    },
+        "sub_title":"Minecraft Missile Mod"
+    },   
     "images":"imgs",
     "content":"content",
-    "categories":"content/categories.json"
+    "categories":"content/categories.json",
+    "theme":"folder:Wiki-Template"
 }
