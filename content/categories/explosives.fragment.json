@@ -1,4 +1,5 @@
 {
     "name":"Fragments",
-    "parent":"explosives"
+    "parent":"explosives",
+    "page":"fragments"
 }

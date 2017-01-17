@@ -1,17 +1,17 @@
 {
     "categories":
     {
-        "missiles":"./categories/missiles.json",
-        "launchers":"./categories/launchers.json",
-        "crafting":"./categories/crafting.json",
-        "machines":"./categories/machines.json",
-        "radio":"./categories/radio.json",
-        "tools":"./categories/tools.json",
-        "explosives":"./categories/explosives.json",
-        "fragments":"./categories/explosives.fragment.json",
-        "fragments":"./categories/explosives.joke.json",
-        "fragments":"./categories/explosives.magic.json",
-        "fragments":"./categories/explosives.utility.json",
-        "parts":"./categories/parts.json"
+        "missiles":"./content/categories/missiles.json",
+        "launchers":"./content/categories/launchers.json",
+        "crafting":"./content/categories/crafting.json",
+        "machines":"./content/categories/machines.json",
+        "radio":"./content/categories/radio.json",
+        "tools":"./content/categories/tools.json",
+        "explosives":"./content/categories/explosives.json",
+        "fragments":"./content/categories/explosives.fragment.json",
+        "fragments":"./content/categories/explosives.joke.json",
+        "fragments":"./content/categories/explosives.magic.json",
+        "fragments":"./content/categories/explosives.utility.json",
+        "parts":"./content/categories/parts.json"
     }
 }

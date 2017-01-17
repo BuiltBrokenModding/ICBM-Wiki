@@ -5,7 +5,8 @@
         "title":"ICBM Wiki",
         "sub_title":"Minecraft Missile Mod"
     },   
-    "images":"imgs",
-    "categories":"content/categories.json",
+    "images":"./imgs",
+    "categories":"./content/categories.json",
+    "pages":"./content/pages",
     "theme":"./Wiki-Template/theme.json"
 }

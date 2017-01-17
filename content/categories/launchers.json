@@ -1,3 +1,5 @@
 {
-    "name":"Launchers"
+    "name":"Launchers",
+    "pageDirectory":"./content/pages/launchers",
+    "page":"launchers"
 }
