@@ -1,7 +1,7 @@
 {
     "vars":
     {
-        "outputPath":"icbm",
+        "outputPath":"icbm/wiki/",
         "title":"ICBM Wiki",
         "sub_title":"Minecraft Missile Mod"
     },   
