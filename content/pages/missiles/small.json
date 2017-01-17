@@ -10,7 +10,7 @@
         "p1": "The small missile is the next step up from the #microMissile in the list. This missile is 2 blocks tall or about double the size of the #microMissile. With the increase in size the #payload can extended to 5 #explosives.",
         "h1":
         {
-            "name":"Crafting"
+            "text":"Crafting"
         },
         "p2":"Crafting is a bit more complex then standard #minecraft recipes and requires a specialized #workstation.",
         "p3":"In order to craft the missile first make a #missileCasing then place it into the #workstation. After this insert the #rocketEngine, #guidanceChip, and #warhead. Once all of these are inserted then you can finish off the recipe and receive a #missile. See each #workstation for exact steps on usage."
