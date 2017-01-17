@@ -1,4 +1,5 @@
 {
     "name":"Missiles",
-    "page":"content/missiles/missiles.json"
+    "pageDirectory":"./content/pages/missiles",
+    "page":"missiles"
 }

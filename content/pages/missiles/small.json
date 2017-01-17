@@ -1,5 +1,6 @@
 {
     "pageName":"Small Missile",
+    "type":"content",
     "replaceKeys":
     {
         "smallMissile":"small missile"

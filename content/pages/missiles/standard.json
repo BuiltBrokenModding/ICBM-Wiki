@@ -1,5 +1,6 @@
 {
     "pageName":"Standard Missile",
+    "type":"content",
     "replaceKeys":
     {
         "standardMissile":"standard missile"

@@ -1,5 +1,6 @@
 {
     "pageName":"Missiles",
+    "type":"category",
     "replaceKeys":
     {
         "missile":"missile"
