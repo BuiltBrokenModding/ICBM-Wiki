@@ -1,12 +1,79 @@
-{
+{       
+    "images":"./imgs",
+    "pages":"./content/pages",
+    "theme":"./Wiki-Template/theme.json",
     "vars":
     {
         "outputPath":"icbm/wiki/",
         "title":"ICBM Wiki",
         "sub_title":"Minecraft Missile Mod"
-    },   
-    "images":"./imgs",
-    "categories":"./content/categories.json",
-    "pages":"./content/pages",
-    "theme":"./Wiki-Template/theme.json"
+    },
+    "categories":
+    {
+        "missiles":
+        {
+            "text":"Missiles",
+            "page":"missiles"
+        },
+        "launchers":
+        {
+            "text":"Launchers",
+            "page":"launchers"
+        },
+        "crafting":
+        {
+            "text":"Crafting",
+            "page":"crafting"
+        },
+        "machines":
+        {
+            "text":"Machines",
+            "page":"machines"
+        },
+        "radio":
+        {
+            "text":"Radio",
+            "page":"radio"
+        },
+        "tools":
+        {
+            "text":"Tools",
+            "page":"tools"
+        },
+        "explosives":
+        {
+            "text":"Explosives",
+            "page":"explosives"
+        },
+        "explosives.fragments":
+        {
+            "parent":"explosives",
+            "text":"Fragments",
+            "page":"explosives.fragment"
+        },
+        "explosives.joke":
+        {
+            "parent":"explosives",
+            "text":"Joke",
+            "page":"explosives.joke"
+        },
+        "explosives.magic":
+        {
+            "parent":"explosives",
+            "text":"Magic",
+            "page":"explosives.magic"
+        },
+        "explosives.utility":
+        {
+            "parent":"explosives",
+            "text":"Utility",
+            "page":"explosives.utility"
+        },
+        "parts":
+        {
+            "parent":"explosives",
+            "text":"Parts",
+            "page":"parts"
+        }
+    }
 }
