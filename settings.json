@@ -1,6 +1,6 @@
 {       
     "images":"./imgs",
-    "pages":"./content/pages",
+    "pages":"./pages",
     "theme":"./Wiki-Template/theme.json",
     "vars":
     {

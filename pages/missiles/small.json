@@ -1,6 +1,7 @@
 {
     "pageName":"Small Missile",
     "type":"content",
+    "category":"missiles",
     "replaceKeys":
     {
         "smallMissile":"small missile"

@@ -1,13 +1,14 @@
 {
     "pageName":"Standard Missile",
     "type":"content",
+    "category":"missiles",
     "replaceKeys":
     {
         "standardMissile":"standard missile"
     },
     "content":
     {
-        "p1": "The standard missile is the base #missile size in ICBM. It can carry a #payload of 20 #explosives in its #warhead.",
+        "p1": "The standard missile is the base #missile size in ICBM. It can carry a #payload of 20 #link:explosives# in its #warhead.",
         "h2": {"text":"Crafting"},
         "p2":"Crafting is very unique for the standard missile to help balance it's explosive power. In order to make on of these missiles you need a #launcher that support crafting or a #workstation for the missile size.",
         "h2": {"text":"Launcher Crafting Process", "size":"small"},

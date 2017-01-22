@@ -1,9 +1,10 @@
 {
-    "pageName":"Large Missile",
+    "pageName":"Medium Missile",
     "type":"content",
+    "category":"missiles",
     "replaceKeys":
     {
-        "largeMissile":"large missile"
+        "mediumMissile":"medium missile"
     },
     "content":
     {

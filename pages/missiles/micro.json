@@ -1,6 +1,7 @@
 {
     "pageName":"Micro Missile",
     "type":"content",
+    "category":"missiles",
     "replaceKeys":
     {
         "microMissile":"micro missile"
