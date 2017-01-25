@@ -1,13 +1,16 @@
 {
-    "pageName":"Name",
-    "type":"ignore",
-    "category":"cat",
+    "pageName":"Laser detonator",
+    "type":"content",
+    "category":"tools",
     "replaceKeys":
     {
-        "key":"text"
+        "laserDet":"laser detonator",
+        "laserDetonator":"laser detonator"
     },
     "content":
     {
-        "p1": "text"
+        "h1": "Info",
+        "p1": "The laser detonator is a direct upgrade of the #link:remoteDet# to allow a line of sight targeting and triggering of the #link:remoteLaunchSystem#. In other words it allows a user to mark a target for a #link:missile# in a distance #link:launcher#. In order to use the item first aim at a location and then right click. Assuming the item was encoded and launcher setup correctly a missile should be sent to the aiming location.",
+        "p2":"See #link:remoteDet# for how to encode and setup the item."
     }
 }

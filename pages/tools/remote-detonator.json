@@ -1,13 +1,19 @@
 {
-    "pageName":"Name",
-    "type":"ignore",
-    "category":"cat",
+    "pageName":"Remote Detonator",
+    "type":"content",
+    "category":"tools",
     "replaceKeys":
     {
-        "key":"text"
+        "remoteDet":"remote detonator",
+        "remoteDetonator":"remote detonator"
     },
     "content":
     {
-        "p1": "text"
+        "h1":"Info",
+        "p1": "The remote detonator allows users to work with the #link:radioSystem# to activate #link:remoteLaunchSystems# to fire #link:missiles#.",
+        "h2":"Usage",
+        "p2":"In order to use the detonator is must first be encoded with a #link:frequency#, #link:launcherGroup#, and #link:launcher#.",
+        "h3":"Encoding",
+        "p3":"To encode the detonator open the GUI of a #commandSiloDisplay# select a #link:launcherGroup# and then a #link:launcher#. After doing this you should see a slot in the #link:launcher#'s GUI for the detonator. Place the detonator in this slot and then click encode. If everything is setup correctly the detonator should now work. If not make sure to follow the steps to setup a launcher to work with the #link:remoteLaunchSystem#."
     }
 }

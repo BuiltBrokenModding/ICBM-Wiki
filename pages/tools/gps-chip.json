@@ -1,13 +1,14 @@
 {
-    "pageName":"Name",
-    "type":"ignore",
-    "category":"cat",
+    "pageName":"GPS Flag",
+    "type":"content",
+    "category":"tools",
     "replaceKeys":
     {
-        "key":"text"
+        "gpsFlag":"gps flag"
     },
     "content":
     {
-        "p1": "text"
+        "h1": "Info",
+        "p1": "The gps flag is an early game way to collect and store location data. This data can be used to set the target of #link:luanchers# or other machines that support the data format."
     }
 }

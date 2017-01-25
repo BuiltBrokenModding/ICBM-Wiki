@@ -1,13 +1,14 @@
 {
-    "pageName":"Name",
-    "type":"ignore",
-    "category":"cat",
+    "pageName":"Radar gun",
+    "type":"content",
+    "category":"tools",
     "replaceKeys":
     {
-        "key":"text"
+        "radarGun":"radar gun"
     },
     "content":
     {
-        "p1": "text"
+        "h1":"Info",
+        "p1": "Radar gun is a direct upgrade of the #link:gpsFlag# that allows line of sight collection of location data. It works in the same exact way as the #link:gpsFlag# with the exception that is uses line of sight to get the location."
     }
 }

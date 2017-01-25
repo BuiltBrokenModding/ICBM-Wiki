@@ -1,13 +1,16 @@
 {
-    "pageName":"Name",
-    "type":"ignore",
-    "category":"cat",
+    "pageName":"Data Chip",
+    "type":"content",
+    "category":"tools",
     "replaceKeys":
     {
-        "key":"text"
+        "dataChip":"data chip"
     },
     "content":
     {
-        "p1": "text"
+        "h1": "Info",
+        "p1":"The data chip is used to transfer information between machines. In most cases this is linking data used to connect #link:launchers# to #link:launchControllers#.",
+        "h2":"Usage",
+        "p2":"TODO add"
     }
 }
