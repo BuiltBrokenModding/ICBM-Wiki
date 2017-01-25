@@ -1,0 +1,14 @@
+{
+    "pageName":"Silo Display",
+    "type":"content",
+    "category":"radio",
+    "replaceKeys":
+    {
+        "siloDisplay":"silo display"
+    },
+    "content":
+    {
+        "h1": "Info",
+        "p1": "The silo display tile is used to visually interact with the #link:remoteLaunchSystem# using an interactive GUI."
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "pageName":"Silo Connector",
+    "type":"content",
+    "category":"radio",
+    "replaceKeys":
+    {
+        "siloConnector":"silo connector"
+    },
+    "content":
+    {
+        "h1": "Info",
+        "p1": "The silo connector is used to create #link:launcherGroups# for the #link:remoteLaunchSystem#. It allows for up to 20 #link:launchers# to be connected to the #link:remoteLaunchSystem#."
+    }
+}

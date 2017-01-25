@@ -1,0 +1,17 @@
+{
+    "pageName":"Remote Launch System",
+    "type":"guide",
+    "replaceKeys":
+    {
+        "remoteLaunchSystem":"remote launch system",
+        "remoteLaunchSystems":"remote launch systems"
+    },
+    "content":
+    {
+        "h1": "Info",
+        "p1": "The remote launch system is a radio communication setup used to fire missiles remotely.",
+        "h2":"Setup",
+        "p2":"In order to use the system you must setup an #link:antenna# connected to a #link:commandController# which contains #link:siloConnector# with valid #link:launcher# links.",
+        "p3":"TODO finish wiki"
+    }
+}

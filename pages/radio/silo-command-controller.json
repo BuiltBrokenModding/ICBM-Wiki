@@ -1,0 +1,14 @@
+{
+    "pageName":"Silo Command Controller",
+    "type":"content",
+    "category":"radio",
+    "replaceKeys":
+    {
+        "commandController":"silo command controller"
+    },
+    "content":
+    {
+        "h1": "Info",
+        "p1": "The silo command controller is the heart of the #link:remoteLaunchSystem#. It handles all incoming radio message data and manages all connected silos to a system. It also allows for remote management and linking of several #link:remoteLaunchSystem#."
+    }
+}

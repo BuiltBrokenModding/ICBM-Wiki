@@ -4,7 +4,7 @@
     "theme":"./Wiki-Template/theme.json",
     "vars":
     {
-        "outputPath":"icbm/wiki/",
+        "outputPath":"pages/icbm/wiki/",
         "title":"ICBM Wiki",
         "sub_title":"Minecraft Missile Mod",
         "wikiGithub":"https://github.com/BuiltBrokenModding/ICBM-Wiki"

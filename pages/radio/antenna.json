@@ -1,0 +1,18 @@
+{
+    "pageName":"Antenna",
+    "type":"content",
+    "category":"radio",
+    "replaceKeys":
+    {
+        "antenna":"antenna"
+    },
+    "content":
+    {
+        "h1":"Info",
+        "p1": "The antenna is used to receive and send wireless messages using electromagnet waves. Its purpose in #link:ICBM# is to communicate launch data for the #link:remoteLaunchSystem#.",
+        "h2":"Design",
+        "img":"antenna.png",
+        "p2":"The antenna can be designed in any size or shape that the user desired. However, the size and shape does define the limits of the antenna so it is best to keep a few things in mind.",
+        "p3":"TODO finish writting page"        
+    }
+}
