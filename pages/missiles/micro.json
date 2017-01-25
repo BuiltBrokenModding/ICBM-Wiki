@@ -7,7 +7,9 @@
         "microMissile":"micro missile"
     },
     "content":
-    {
-        "p1": "The micro rocket is the smallest #link:missile# in ICBM. It's primary design is to be fired from a shoulder mounted #link:handHeldLauncher#."
+    {   "h1":"Info",
+        "p1":"The micro rocket is the smallest #link:missile# in #link:ICBM#. It's primary design is to be fired from a shoulder mounted #link:handHeldLauncher#.",
+        "h2":"Histroy",
+        "p2":"The micro missile was designed as a more realisitc replacement for firing any missile from a #link:handHeldLauncher#. Hence it being modeled after Russian RPGs and other shoulder fired weapon systems. This designed was changed to include the micro missile as just a scaled down version of the 2 block tall #link:smallMissile#."
     }
 }

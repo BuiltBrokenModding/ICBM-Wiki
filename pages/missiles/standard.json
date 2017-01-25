@@ -8,25 +8,26 @@
     },
     "content":
     {
-        "p1": "The standard missile is the base #missile size in ICBM. It can carry a #payload of 20 #link:explosives# in its #warhead.",
-        "h2": {"text":"Crafting"},
+        "h1":"Info",
+        "p1": "The standard missile is the base #link:missile# size in ICBM. It can carry a #link:payload# of 20 #link:explosives# in its #link:warhead#.",
+        "h3": {"text":"Crafting"},
         "p2":"Crafting is very unique for the standard missile to help balance it's explosive power. In order to make on of these missiles you need a #launcher that support crafting or a #workstation for the missile size.",
-        "h2": {"text":"Launcher Crafting Process", "size":"small"},
-        "p3":"In order to craft the missile you will need 128 #iron #rods, 36 #iron #plates, a #guidanceSystem, a #rocketEngine, a #warhead, and a supported #wrench.",
+        "h4": {"text":"Launcher Crafting Process", "size":"small"},
+        "p3":"In order to craft the missile you will need 128 #link:ironRods#, 36 #link:ironPlates#, a #link:guidanceSystem#, a #link:rocketEngine#, a #link:warhead#, and a supported #link:wrench#.",
         "list":
         {
             "type":"numbered",
             "entry1":"First build a #standardLauncher frame with nothing loaded",
             "entry2":"Once built start by insert the rods to create the frame. This can be done by right click the CPU or frame once started.",
-            "entry2":"When the frame is completed insert the #rocketEngine, #guidanceSystem, and #warhead. It should visually render each as it is inserted to note the step is completed. #Warhead can optionally be ignored but can not be inserted after the next step.",
-            "entry3":"After inserting the guts of the #missile place the #plates onto the frame as the #missile skin.",
-            "entry4":"With everything added shift right-click the #missile or #launcherCPU to complete the #missile."
+            "entry2":"When the frame is completed insert the #link:rocketEngine#, #link:guidanceSystem#, and #link:warhead#. It should visually render each as it is inserted to note the step is completed. #link:Warhead# can optionally be ignored but can not be inserted after the next step.",
+            "entry3":"After inserting the guts of the #link:missile# place the #link:plates# onto the frame as the #link:missile# skin.",
+            "entry4":"With everything added shift right-click the #missile or #link:launcherCPU# to complete the #link:missile#."
         },
-        "h4": {"text":"Notes"},
+        "h5": {"text":"Notes"},
         "list":
         {
             "type":"dot",
-            "li": "Direct replacement for the 1.6.4 #minecraft #missiles sizes." 
+            "li": "Direct replacement for the 1.6.4 #link:ICBMClassic# #link:missiles# sizes." 
         }
     }
 }

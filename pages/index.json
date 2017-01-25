@@ -1,0 +1,13 @@
+{
+    "pageName":"ICBM Wiki",
+    "type":"mainPage",
+    "replaceKeys":
+    {
+        "icbm":"ICBM"
+    },
+    "content":
+    {
+        "h1": "About",
+        "p1":"ICBM doesn't need much explanation of what it is or isn't. After all, ICBMs are super sizes missiles that blow everything up. Making this mod just about destroying the world right? I would say no but its a mixed story when it comes to ICBM. At the beginning, it was created with the idea that PvP needed a modern addition. Fewer swords, guns, traps, and more bang for your resources. Since its creation, it has evolved to support more than a PvP environment. Adding in cargo missile to transport items across the world. Weather missiles to control the climate and condition of the world. Transportation missiles to allow the player to take a one-way taxi back to his base. That is just the beginning of that is to come as the mod continues to evolve."
+    }
+}
