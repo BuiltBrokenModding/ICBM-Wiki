@@ -1,13 +1,18 @@
 {
-    "pageName":"Name",
-    "type":"ignore",
-    "category":"cat",
+    "pageName":"Small Missile Silo",
+    "type":"content",
+    "category":"launchers",
     "replaceKeys":
     {
-        "key":"text"
+        "smallSilo":"small missile silo"
     },
     "content":
     {
-        "p1": "text"
+        "h1":"Info",
+        "p1": "The small missile silo is used to fire #link:smallMissile#s.",
+        "h2":"Placement",
+        "p2":"The silo is 3 blocks tall and will require a clear space to be placed.",
+        "h3":"Usage",
+        "p3":"The silo does not contain a built in GUI and will need to be connected to a #link:siloController#. Additionally missile can be inserted into the silo by right clicking with the missile or with a tile designed to insert missile. To remove the missile right click with an empty hand."
     }
 }
