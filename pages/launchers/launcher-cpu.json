@@ -1,13 +1,14 @@
 {
-    "pageName":"Name",
-    "type":"ignore",
-    "category":"cat",
+    "pageName":"Launcher CPU",
+    "type":"content",
+    "category":"launcher",
     "replaceKeys":
     {
-        "key":"text"
+        "launcherCPU":"launcher CPU"
     },
     "content":
     {
-        "p1": "text"
+        "h1": "Info",
+        "p1": "The launcher CPU is part of the #link:standardLauncher# mutli-block setup. Its the main logic block and does the actual work on the system."        
     }
 }
