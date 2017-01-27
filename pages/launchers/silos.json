@@ -1,13 +1,25 @@
 {
-    "pageName":"Name",
-    "type":"ignore",
-    "category":"cat",
+    "pageName":"Silos",
+    "type":"page",
     "replaceKeys":
     {
-        "key":"text"
+        "silo":"silo",
+        "silos":"silos"
     },
     "content":
     {
-        "p1": "text"
+        "h1": "Info",
+        "p1": "Silos are tube shaped #link:launchers# designed to be fired from inside buildings or underground areas. Due to this they are more compact but also more expensive to build. Additional silos require more setup and power depending on the type.",
+        "h2": "Types",
+        "h3":
+        {  
+            "link":"silo-small.json",
+            "text":"Small Missile Silo"
+        },
+        "h4":
+        {  
+            "link":"silo-standard.json",
+            "text":"Standard Missile Silo"
+        }
     }
 }
