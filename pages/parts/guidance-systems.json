@@ -1,13 +1,35 @@
 {
-    "pageName":"Name",
-    "type":"ignore",
-    "category":"cat",
+    "pageName":"Guidance Systems",
+    "type":"set",
+    "category":"parts",
     "replaceKeys":
     {
-        "key":"text"
+        "guidanceSystem":"guidance system"
     },
     "content":
     {
-        "p1": "text"
+        "h1": "Info",
+        "p1": "Guidance systems are used to define how the #link:missile# flies towards the target. All #link:missiles# require some kind of guidance system in order to function correctly. Without a guidance system the #link:missile# will fly in a linear path and can easily deviate from it's path.",
+        "h2":"Systems",
+        "h3":
+        {  
+            "link":"wooden-guidance-clock.json",
+            "text":"Wooden Clock"
+        },
+        "h4":
+        {  
+            "link":"stone-guidance-clock.json",
+            "text":"Stone Clock"
+        },
+        "h5":
+        {  
+            "link":"iron-guidance-clock.json",
+            "text":"Iron Clock"
+        },
+        "h6":
+        {  
+            "link":"diamond-guidance-clock.json",
+            "text":"Diamond Clock"
+        },
     }
 }
