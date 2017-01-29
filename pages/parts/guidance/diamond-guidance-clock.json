@@ -1,10 +1,10 @@
 {
-    "pageName":"Name",
-    "type":"ignore",
-    "category":"cat",
+    "pageName":"Diamond Guidance Clock",
+     "type":"content",
+    "category":"parts.guidance",
     "replaceKeys":
     {
-        "key":"text"
+        "diamondGuidanceClock":"diamondGuidanceClock"
     },
     "content":
     {

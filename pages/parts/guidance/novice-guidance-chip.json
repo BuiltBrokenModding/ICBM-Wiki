@@ -1,10 +1,10 @@
 {
-    "pageName":"Name",
-    "type":"ignore",
-    "category":"cat",
+    "pageName":"Novice Guidance Chip",
+    "type":"content",
+    "category":"parts.guidance",
     "replaceKeys":
     {
-        "key":"text"
+        "noviceGuidanceChip":"novice guidance chip"
     },
     "content":
     {

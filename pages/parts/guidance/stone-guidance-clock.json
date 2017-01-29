@@ -1,10 +1,10 @@
 {
-    "pageName":"Name",
-    "type":"ignore",
-    "category":"cat",
+    "pageName":"Stone Guidance block",
+    "type":"content",
+    "category":"parts.guidance",
     "replaceKeys":
     {
-        "key":"text"
+        "stoneGuidanceClock":"stone guidance clock"
     },
     "content":
     {

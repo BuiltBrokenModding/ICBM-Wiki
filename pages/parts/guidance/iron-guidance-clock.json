@@ -1,10 +1,10 @@
 {
-    "pageName":"Name",
-    "type":"ignore",
-    "category":"cat",
+    "pageName":"Iron Guidance Clock",
+    "type":"content",
+    "category":"parts.guidance",
     "replaceKeys":
     {
-        "key":"text"
+        "ironGuidanceClock":"iron guidance clock"
     },
     "content":
     {

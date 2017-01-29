@@ -1,10 +1,10 @@
 {
-    "pageName":"Name",
-    "type":"ignore",
-    "category":"cat",
+    "pageName":"Wooden Guidance Clock",
+    "type":"content",
+    "category":"parts.guidance",
     "replaceKeys":
     {
-        "key":"text"
+        "woodenGuidanceClock":"wooden guidance clock"
     },
     "content":
     {
