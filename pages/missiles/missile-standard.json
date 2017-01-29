@@ -2,7 +2,7 @@
     "pageName":"Standard Missile",
     "type":"content",
     "category":"missiles",
-    "category_display":"Standard",
+    "category_display_name":"Standard",
     "category_display_order":"after:missile-small",
     "replaceKeys":
     {
