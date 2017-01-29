@@ -1,13 +1,16 @@
 {
-    "pageName":"Name",
-    "type":"ignore",
-    "category":"cat",
+    "pageName":"Launchers",
+    "type":"category",
     "replaceKeys":
     {
-        "key":"text"
+        "launchers":"launchers",
+        "launcher":"launcher"
     },
     "content":
     {
-        "p1": "text"
+        "h1": "Info",
+        "p1": "Launchers are framed support structures used to hold #link:missiles# in place while they launch. Due to this simplicity they provide no additional functionality outside of launching. This means that the missile can set the area on fire around the launcher. It is recommended to build launchers in open areas above ground to avoid issues.",
+        "h2":"Types",
+        "p3":"TODO add list of types"
     }
 }

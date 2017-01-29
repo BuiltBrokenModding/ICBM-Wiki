@@ -72,9 +72,32 @@
         },
         "parts":
         {
-            "parent":"explosives",
             "text":"Parts",
             "page":"parts"
+        },
+        "parts.warhead":
+        {
+            "parent":"parts",
+            "text":"Warheads",
+            "page":"warheads"
+        },
+        "parts.guidance":
+        {
+            "parent":"parts",
+            "text":"Guidance",
+            "page":"guidance-systems"
+        },
+        "parts.engine":
+        {
+            "parent":"parts",
+            "text":"Engines",
+            "page":"rocket-engines"
+        },
+        "parts.trigger":
+        {
+            "parent":"parts",
+            "text":"Triggers",
+            "page":"triggers"
         }
     }
 }

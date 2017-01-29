@@ -1,6 +1,6 @@
 {
     "pageName":"Silos",
-    "type":"page",
+    "type":"category",
     "replaceKeys":
     {
         "silo":"silo",
@@ -9,7 +9,7 @@
     "content":
     {
         "h1": "Info",
-        "p1": "Silos are tube shaped #link:launchers# designed to be fired from inside buildings or underground areas. Due to this they are more compact but also more expensive to build. Additional silos require more setup and power depending on the type.",
+        "p1": "Silos are compacted #link:launchers# designed to be fired from inside inclosed areas. This makes them a direct upgrade from the #link:launchers# that solves the need for open fireproof area.",
         "h2": "Types",
         "h3":
         {  

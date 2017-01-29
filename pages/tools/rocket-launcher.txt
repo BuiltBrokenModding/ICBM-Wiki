@@ -1,0 +1,14 @@
+{
+    "pageName":"Rocket Launcher",
+    "type":"content",
+    "category":"tools",
+    "replaceKeys":
+    {
+        "handHeldLauncher":"rocket launcher"
+    },
+    "content":
+    {
+        "h1": "Info",
+        "p1": "The rocket launcher, or handheld launcher, is a held item that is used to fire #link:microMissile# and #link:smallMissile# over the player's sholder."
+    }
+}

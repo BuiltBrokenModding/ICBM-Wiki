@@ -1,7 +1,6 @@
 {
     "pageName":"Guidance Systems",
-    "type":"set",
-    "category":"parts",
+    "type":"category",
     "replaceKeys":
     {
         "guidanceSystem":"guidance system"
@@ -30,6 +29,6 @@
         {  
             "link":"diamond-guidance-clock.json",
             "text":"Diamond Clock"
-        },
+        }
     }
 }

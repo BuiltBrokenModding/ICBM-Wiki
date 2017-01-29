@@ -1,0 +1,13 @@
+{
+    "pageName":"Silos",
+    "category":"silos",
+    "replaceKeys":
+    {
+        "standardSilo":"standard silo"
+    },
+    "content":
+    {
+        "h1": "Info",
+        "p1": "Standard silo is designed to fire #link:standardMissiles# and #link:smallMissiles#."
+    }
+}

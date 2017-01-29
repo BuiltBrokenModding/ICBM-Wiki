@@ -1,7 +1,7 @@
 {
     "pageName":"Small Missile Silo",
     "type":"content",
-    "category":"launchers",
+    "category":"silos",
     "replaceKeys":
     {
         "smallSilo":"small missile silo"
