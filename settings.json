@@ -14,37 +14,50 @@
         "missiles":
         {
             "text":"Missiles",
-            "page":"missiles"
+            "page":"missiles",
+            "index": 0
         },
         "launchers":
         {
             "text":"Launchers",
-            "page":"launchers"
+            "page":"launchers",
+            "index": 1
         },
-        "crafting":
+        "silos":
         {
-            "text":"Crafting",
-            "page":"crafting"
+            "text":"Silos",
+            "page":"silos",
+            "index": 2
         },
         "machines":
         {
             "text":"Machines",
-            "page":"machines"
+            "page":"machines",
+            "index": 3
         },
         "radio":
         {
             "text":"Radio",
-            "page":"radio"
+            "page":"radio",
+            "index": 4
         },
         "tools":
         {
             "text":"Tools",
-            "page":"tools"
+            "page":"tools",
+            "index": 5
+        },
+        "crafting":
+        {
+            "text":"Crafting",
+            "page":"crafting",
+            "index": 6
         },
         "explosives":
         {
             "text":"Explosives",
-            "page":"explosives"
+            "page":"explosives",
+            "index": 8
         },
         "explosives.fragments":
         {
@@ -79,7 +92,8 @@
         "parts":
         {
             "text":"Parts",
-            "page":"parts"
+            "page":"parts",
+            "index": 7
         },
         "parts.warhead":
         {
