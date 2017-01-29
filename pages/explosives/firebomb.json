@@ -1,0 +1,13 @@
+{
+    "pageName":"Fire Bomb",
+    "type":"content",
+    "category":"explosives.destructive",
+    "replaceKeys":
+    {
+        "fireBombExplosive":"fire bomb"
+    },
+    "content":
+    {
+        "p1": "text"
+    }
+}

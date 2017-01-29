@@ -1,0 +1,13 @@
+{
+    "pageName":"Ore-Up-draft",
+    "type":"content",
+    "category":"explosives.magic",
+    "replaceKeys":
+    {
+        "orePullerExplosive":"ore-up-draft"
+    },
+    "content":
+    {
+        "p1": "text"
+    }
+}

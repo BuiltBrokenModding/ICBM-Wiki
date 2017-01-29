@@ -1,0 +1,13 @@
+{
+    "pageName":"Slime Rain",
+    "type":"content",
+    "category":"explosives.joke",
+    "replaceKeys":
+    {
+        "slimeRainExplosive":"slime rain"
+    },
+    "content":
+    {
+        "p1": "text"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "pageName":"Plant Life",
+    "type":"content",
+    "category":"explosives.magic",
+    "replaceKeys":
+    {
+        "plantLifeExplosive":"plant life"
+    },
+    "content":
+    {
+        "p1": "text"
+    }
+}

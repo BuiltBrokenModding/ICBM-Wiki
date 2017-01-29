@@ -70,6 +70,12 @@
             "text":"Utility",
             "page":"explosives.utility"
         },
+        "explosives.destructive":
+        {
+            "parent":"explosives",
+            "text":"Destructive",
+            "page":"explosives.destructive"
+        },
         "parts":
         {
             "text":"Parts",

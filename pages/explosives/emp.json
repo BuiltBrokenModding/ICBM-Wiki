@@ -1,0 +1,13 @@
+{
+    "pageName":"EMP",
+    "type":"content",
+    "category":"explosives.destructive",
+    "replaceKeys":
+    {
+        "empExplosive":"emp"
+    },
+    "content":
+    {
+        "p1": "text"
+    }
+}

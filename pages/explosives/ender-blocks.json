@@ -1,0 +1,13 @@
+{
+    "pageName":"Ender Blocks",
+    "type":"content",
+    "category":"explosives.destructive",
+    "replaceKeys":
+    {
+        "enderBlocksExplosive":"ender blocks"
+    },
+    "content":
+    {
+        "p1": "text"
+    }
+}

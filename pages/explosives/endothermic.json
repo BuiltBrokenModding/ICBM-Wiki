@@ -1,0 +1,13 @@
+{
+    "pageName":"Endothermic",
+    "type":"content",
+    "category":"explosives.utility",
+    "replaceKeys":
+    {
+        "endothermicExplosive":"endothermic"
+    },
+    "content":
+    {
+        "p1": "text"
+    }
+}

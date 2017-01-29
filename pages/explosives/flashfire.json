@@ -1,0 +1,13 @@
+{
+    "pageName":"Flash Fire",
+    "type":"content",
+    "category":"explosives.destructive",
+    "replaceKeys":
+    {
+        "flashFireExplosive":"flash fire"
+    },
+    "content":
+    {
+        "p1": "text"
+    }
+}

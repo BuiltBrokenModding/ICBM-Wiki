@@ -1,0 +1,13 @@
+{
+    "pageName":"Arrow",
+    "type":"content",
+    "category":"explosives.fragment",
+    "replaceKeys":
+    {
+        "arrowExplosive":"arrow"
+    },
+    "content":
+    {
+        "p1": "text"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "pageName":"Regen",
+    "type":"content",
+    "category":"explosives.utility",
+    "replaceKeys":
+    {
+        "regenExplosive":"regen"
+    },
+    "content":
+    {
+        "p1": "text"
+    }
+}

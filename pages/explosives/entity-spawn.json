@@ -1,0 +1,13 @@
+{
+    "pageName":"Entity Spawn",
+    "type":"content",
+    "category":"explosives.magic",
+    "replaceKeys":
+    {
+        "entitySpawnExplosive":"entity spawn"
+    },
+    "content":
+    {
+        "p1": "text"
+    }
+}

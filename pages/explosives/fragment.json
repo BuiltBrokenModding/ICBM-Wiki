@@ -1,0 +1,13 @@
+{
+    "pageName":"Fragment",
+    "type":"content",
+    "category":"explosives.fragments",
+    "replaceKeys":
+    {
+        "fragmentExplosive":"fragment"
+    },
+    "content":
+    {
+        "p1": "text"
+    }
+}

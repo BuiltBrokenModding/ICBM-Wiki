@@ -1,0 +1,13 @@
+{
+    "pageName":"Cake",
+    "type":"content",
+    "category":"explosives.joke",
+    "replaceKeys":
+    {
+        "cakeExplosive":"cake"
+    },
+    "content":
+    {
+        "p1": "text"
+    }
+}

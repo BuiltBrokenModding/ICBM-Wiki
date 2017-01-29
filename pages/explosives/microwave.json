@@ -1,0 +1,13 @@
+{
+    "pageName":"Microwave",
+    "type":"content",
+    "category":"explosives.utility",
+    "replaceKeys":
+    {
+        "microwaveExplosive":"microwave"
+    },
+    "content":
+    {
+        "p1": "text"
+    }
+}

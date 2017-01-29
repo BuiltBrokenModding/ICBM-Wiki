@@ -1,0 +1,13 @@
+{
+    "pageName":"Gravity",
+    "type":"content",
+    "category":"explosives.utility",
+    "replaceKeys":
+    {
+        "gravityExplosive":"gravity"
+    },
+    "content":
+    {
+        "p1": "text"
+    }
+}

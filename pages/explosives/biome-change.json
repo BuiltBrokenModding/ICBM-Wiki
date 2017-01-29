@@ -1,0 +1,13 @@
+{
+    "pageName":"Biome Change",
+    "type":"content",
+    "category":"explosives.utility",
+    "replaceKeys":
+    {
+        "biomeChangeExplosive":"biome change"
+    },
+    "content":
+    {
+        "p1": "text"
+    }
+}

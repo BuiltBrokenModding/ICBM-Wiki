@@ -1,0 +1,13 @@
+{
+    "pageName":"Torch Eater",
+    "type":"content",
+    "category":"explosives.magic",
+    "replaceKeys":
+    {
+        "torchEaterExplosive":"torch eater"
+    },
+    "content":
+    {
+        "p1": "text"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "pageName":"Anti Plant",
+    "type":"content",
+    "category":"explosives.magic",
+    "replaceKeys":
+    {
+        "antiPlantExplosive":"antiPlantExplosive"
+    },
+    "content":
+    {
+        "p1": "text"
+    }
+}

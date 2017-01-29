@@ -1,0 +1,13 @@
+{
+    "pageName":"Antimatter",
+    "type":"content",
+    "category":"explosives.destructive",
+    "replaceKeys":
+    {
+        "antimatterExplosive":"antimatter"
+    },
+    "content":
+    {
+        "p1": "text"
+    }
+}

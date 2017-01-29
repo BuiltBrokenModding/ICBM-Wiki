@@ -1,0 +1,13 @@
+{
+    "pageName":"Exothermic",
+    "type":"content",
+    "category":"explosives.utility",
+    "replaceKeys":
+    {
+        "exothermicExplosive":"exothermic"
+    },
+    "content":
+    {
+        "p1": "text"
+    }
+}
