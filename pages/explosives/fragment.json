@@ -1,7 +1,7 @@
 {
     "pageName":"Fragment",
     "type":"content",
-    "category":"explosives.fragments",
+    "category":"explosives.projectile",
     "replaceKeys":
     {
         "fragmentExplosive":"fragment"

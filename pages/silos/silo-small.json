@@ -2,6 +2,7 @@
     "pageName":"Small Missile Silo",
     "type":"content",
     "category":"silos",
+    "category_display_name":"Small",
     "replaceKeys":
     {
         "smallSilo":"small missile silo"

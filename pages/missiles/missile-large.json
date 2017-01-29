@@ -2,6 +2,8 @@
     "pageName":"Large Missile",
     "type":"content",
     "category":"missiles",
+    "category_display":"Large",
+    "category_display_order":"after:missile-medium",
     "replaceKeys":
     {
         "largeMissile":"large missile"

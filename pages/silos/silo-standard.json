@@ -1,6 +1,9 @@
 {
-    "pageName":"Silos",
+    "pageName":"Standard Missile Silo",
+    "type":"content",
     "category":"silos",
+    "category_display":"Standard",
+    "category_display_order":"after:silo-small",
     "replaceKeys":
     {
         "standardSilo":"standard silo"

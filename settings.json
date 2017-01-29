@@ -59,11 +59,11 @@
             "page":"explosives",
             "index": 8
         },
-        "explosives.fragments":
+        "explosives.projectile":
         {
             "parent":"explosives",
-            "text":"Fragments",
-            "page":"explosives.fragment"
+            "text":"Projectile",
+            "page":"explosives.projectile"
         },
         "explosives.joke":
         {

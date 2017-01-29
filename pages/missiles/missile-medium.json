@@ -2,6 +2,8 @@
     "pageName":"Medium Missile",
     "type":"content",
     "category":"missiles",
+    "category_display":"Medium",
+    "category_display_order":"after:missile-standard",
     "replaceKeys":
     {
         "mediumMissile":"medium missile"
